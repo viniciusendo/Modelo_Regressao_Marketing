@@ -21,7 +21,7 @@ Para utilizarmos as informações de maneira ideal, não foi necessário fazer n
 
 ## Entendimento dos dados
 <p align="justify">
-Foi feita a análise univariada para observar a distribuição de variáveis numéricas (mín, máx, desvio padrão) afim de procurar por padrões ou tendências relevantes para o negócio. Foram utilizados também gráficos do tipo histograma e boxplot para visualização dos dados e gráficos do tipo pairplot e heatmap para buscar correlação entre variáveis.
+Foi feita a análise univariada para observar a distribuição de variáveis numéricas (média, mínimo, máximo, desvio padrão) afim de procurar por padrões ou tendências relevantes para o negócio. Foram utilizados também gráficos do tipo histograma e boxplot para visualização dos dados e gráficos do tipo pairplot e heatmap para buscar correlação entre variáveis.
 
 ## Perguntas de negócio
 <p align="justify">
