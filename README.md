@@ -10,7 +10,7 @@
 
 ## Entendimento do negócio
 <p align="justify">
-Esta é uma proposta de resolução para um desafio da Formação em Dados da Escola DNC. Trata-se de uma análise para verificar o desempenho de investimentos feitos em plataformas de publicidade online (Youtube, Facebook e Newspaper) e a criação de um modelo simples de predição de valores para estimar o retorno de vendas a partir dos investimentos em publicidade.
+Esta é uma proposta de resolução para um desafio da Formação em Dados da Escola DNC. Trata-se de uma análise para verificar o desempenho de investimentos feitos em plataformas de publicidade online (Youtube, Facebook e Newspaper) e a criação de um modelo de regressão simples para estimar o retorno de vendas a partir dos investimentos em publicidade.
 
 <p align="justify">
 A empresa possuía uma base de dados contendo informações sobre os investimentos em publicidade para cada plataforma e o retorno de vendas gerado a partir destes investimentos.
