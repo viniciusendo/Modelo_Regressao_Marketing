@@ -49,4 +49,3 @@ Para a criação do modelo de predição, optou-se por utilizar a técnica de re
     <img width="460" height="300" src="https://github.com/viniciusendo/dnc_desafio_regressao/assets/134152277/95e081a8-4688-4523-81d9-b168995bb08f">
 </p>
 
-
