@@ -15,12 +15,16 @@ Esta é uma proposta de resolução para um desafio da Formação em Dados da Es
 <p align="justify">
 A empresa possuía uma base de dados contendo informações sobre os investimentos em publicidade para cada plataforma e o retorno de vendas gerado a partir destes investimentos.
 
+<div align='center'>
+ 
 | Coluna | Descrição |
 | ----------- | ----------- |
 | youtube | Investimento na plataforma youtube |
 | facebook | Investimento na plataforma facebook |
 | newspaper | Investimento na plataforma newspaper |
 | sales | Valor das vendas |
+
+</div>
 
 ## Tecnologias utilizadas
 - Google Colab
